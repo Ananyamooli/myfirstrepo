@@ -3,3 +3,5 @@ this is jenkins file
 pipeline}
 added some groovy script for k8s DEPLOYMENT
 added data
+add important data
+
